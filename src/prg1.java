@@ -5,4 +5,6 @@ public class prg1 {
         System.out.println("Hola amigo 4!");
      System.out.println("Hola amigo 5!");
        System.out.println("Hola amigo 6!");
+              System.out.println("Hola amigo 7!");
+
 }
