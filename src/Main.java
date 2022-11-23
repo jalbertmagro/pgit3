@@ -8,6 +8,8 @@ public class Main {
         System.out.println("Hola mundo 5!");
         System.out.println("Hola mundo 6!");
         System.out.println("Hola mundo 7!");
+        System.out.println("Hola mundo 8!");
+        System.out.println("Hola mundo 9!");
 
     }
 }
